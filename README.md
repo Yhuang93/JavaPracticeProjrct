@@ -1,0 +1,2 @@
+# JavaPracticeProjrct
+Small Java Practice
